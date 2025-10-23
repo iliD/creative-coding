@@ -13,7 +13,7 @@
 -js docs/cc_mck.js
 -D source-map-content
 -D state=debug
--debug
+#-debug
 # -dce full
 # -dce no
 

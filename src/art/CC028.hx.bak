@@ -1,6 +1,6 @@
 package art;
 
-// using hxColorToolkit.ColorToolkit;
+using hxColorToolkit.ColorToolkit;
 using StringTools;
 
 // // import ColorUtil;

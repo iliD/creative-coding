@@ -1,0 +1,8 @@
+-lib cc-sketch
+-lib quicksettings
+-lib thx.color
+-lib msignal
+-lib mloader
+-cp src
+-main Main
+-js docs/cc_mck.js
